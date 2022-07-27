@@ -1,9 +1,9 @@
 ###TBD
 - 👋 Hi, I’m @veletech
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in computer science.
+- 🌱 I’m currently learning Java backend
+- 💞️ I’m looking to collaborate on cool projects
+- 📫 How to reach me @veletech
 
 <!---
 veletech/veletech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
